@@ -5,7 +5,7 @@
 // ====================================================================
 
 // 1. DASHBOARD PASSWORD — change this!
-const TEACHER_PASSWORD = "change-me";
+const TEACHER_PASSWORD = "2015";
 
 // 2. Link to the student game (shown as a button in the dashboard).
 //    Leave "" to hide the button.
