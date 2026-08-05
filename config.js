@@ -27,10 +27,10 @@ const AI_CONFIG = {
 
 // 3. FIREBASE — must be the SAME project as the student game's config.js.
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyDYlH4zDFSquNeA6Sx570l1znP3_yH5mTI",
+  authDomain: "hsc-eng-quiz.firebaseapp.com",
+  projectId: "hsc-eng-quiz",
+  storageBucket: "hsc-eng-quiz.firebasestorage.app",
+  messagingSenderId: "409441801799",
+  appId: "1:409441801799:web:31b2c1dabd0477f5480362"
 };
